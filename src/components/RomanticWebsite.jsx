@@ -145,7 +145,7 @@ const RomanticWebsite = () => {
             Para Isa
           </h1>
           <p className="text-2xl md:text-3xl text-pink-200/90 mb-6">
-            Uma declaração de amor 💕
+            Para lembrar de mim... 💕
           </p>
           <p className="text-base text-pink-300/60">
             Role para baixo e sinta cada palavra...
@@ -253,7 +253,7 @@ const RomanticWebsite = () => {
               Com todo meu amor e esperança ❤️
             </p>
             <p className="text-base text-pink-300/70">
-              Feliz Dia dos Namorados, Isa 💕
+              Feliz Dia dos Namorados, futura namorada 💕
             </p>
           </div>
         </div>
